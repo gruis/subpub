@@ -1,0 +1,6 @@
+[submodule "subpub.rb"]
+	path = subpub.rb
+	url = git@github.com:simulacre/subpub.rb.git
+[submodule "subpub.js"]
+	path = subpub.js
+	url = git@github.com:simulacre/subpub.js.git

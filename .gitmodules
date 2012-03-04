@@ -4,3 +4,6 @@
 [submodule "subpub.js"]
 	path = subpub.js
 	url = git@github.com:simulacre/subpub.js.git
+[submodule "subpub.erl"]
+	path = subpub.erl
+	url = git@github.com:simulacre/subpub.erl.git
